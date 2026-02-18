@@ -1,0 +1,11 @@
+{
+	"id": "panelcontrol",
+	"name": "Panel Control",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Obsidian 사이드바 패널을 쉽게 이동하거나 닫을 수 있게 해주는 플러그인입니다. 명령어를 실행하면 사이드바 위치를 선택할 수 있는 모달이 나타납니다.",
+	"author": "ujupatipanno",
+	"authorUrl": "https://github.com/ujupatipanno",
+	"fundingUrl": "https://buymeacoffee.com/ujupatipanno",
+	"isDesktopOnly": false
+}
